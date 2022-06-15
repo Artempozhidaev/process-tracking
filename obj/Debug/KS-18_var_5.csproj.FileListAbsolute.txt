@@ -1,0 +1,43 @@
+D:\6 семестр\Kyrsovoy\KS-18_var_5\bin\Debug\KS-18_var_5.exe.config
+D:\6 семестр\Kyrsovoy\KS-18_var_5\bin\Debug\KS-18_var_5.exe
+D:\6 семестр\Kyrsovoy\KS-18_var_5\bin\Debug\KS-18_var_5.pdb
+D:\6 семестр\Kyrsovoy\KS-18_var_5\obj\Debug\KS_18_var_5.Form1.resources
+D:\6 семестр\Kyrsovoy\KS-18_var_5\obj\Debug\KS_18_var_5.Properties.Resources.resources
+D:\6 семестр\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csproj.GenerateResource.cache
+D:\6 семестр\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csproj.CoreCompileInputs.cache
+D:\6 семестр\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.exe
+D:\6 семестр\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.pdb
+D:\6 семестр\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csproj.ResolveComReference.cache
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\bin\Debug\KS-18_var_5.exe.config
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\bin\Debug\KS-18_var_5.exe
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\bin\Debug\KS-18_var_5.pdb
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csprojAssemblyReference.cache
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csproj.ResolveComReference.cache
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\obj\Debug\KS_18_var_5.Form1.resources
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\obj\Debug\KS_18_var_5.Properties.Resources.resources
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csproj.GenerateResource.cache
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csproj.CoreCompileInputs.cache
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.exe
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.pdb
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\bin\Debug\Database1.mdf
+D:\6 семестр\СПО (Чередникова)\Kyrsovoy\KS-18_var_5\bin\Debug\Database1_log.ldf
+D:\Kyrsovoy\KS-18_var_5\bin\Debug\Database1.mdf
+D:\Kyrsovoy\KS-18_var_5\bin\Debug\Database1_log.ldf
+D:\Kyrsovoy\KS-18_var_5\bin\Debug\KS-18_var_5.exe.config
+D:\Kyrsovoy\KS-18_var_5\bin\Debug\KS-18_var_5.exe
+D:\Kyrsovoy\KS-18_var_5\bin\Debug\KS-18_var_5.pdb
+D:\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csproj.ResolveComReference.cache
+D:\Kyrsovoy\KS-18_var_5\obj\Debug\KS_18_var_5.Form1.resources
+D:\Kyrsovoy\KS-18_var_5\obj\Debug\KS_18_var_5.Properties.Resources.resources
+D:\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csproj.GenerateResource.cache
+D:\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csproj.CoreCompileInputs.cache
+D:\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.exe
+D:\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.pdb
+D:\Kyrsovoy\KS-18_var_5\obj\Debug\KS_18_var_5.Form_data.resources
+D:\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csprojAssemblyReference.cache
+D:\Kyrsovoy\KS-18_var_5\obj\Debug\KS_18_var_5.Form_delete.resources
+D:\6 семестр\Kyrsovoy\KS-18_var_5\bin\Debug\Database1_log.ldf
+D:\6 семестр\Kyrsovoy\KS-18_var_5\bin\Debug\Database1.mdf
+D:\6 семестр\Kyrsovoy\KS-18_var_5\obj\Debug\KS-18_var_5.csproj.AssemblyReference.cache
+D:\6 семестр\Kyrsovoy\KS-18_var_5\obj\Debug\KS_18_var_5.Form_data.resources
+D:\6 семестр\Kyrsovoy\KS-18_var_5\obj\Debug\KS_18_var_5.Form_delete.resources
