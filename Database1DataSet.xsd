@@ -4,7 +4,7 @@
     <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
       <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
         <Connections>
-          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Database1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Database1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.KS_18_var_5.Properties.Settings.GlobalReference.Default.Database1ConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Database1ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Database1ConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Process_tracking.Properties.Settings.GlobalReference.Default.Database1ConnectionString" Provider="System.Data.SqlClient" />
         </Connections>
         <Tables>
           <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Table_processTableAdapter" GeneratorDataComponentClassName="Table_processTableAdapter" Name="Table_process" UserDataComponentName="Table_processTableAdapter">
@@ -79,7 +79,7 @@ SELECT Id, name_of_process, date_of_release, work_time FROM Table_process WHERE 
   <xs:element name="Database1DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="Database1DataSet" msprop:Generator_UserDSName="Database1DataSet">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="Table_process" msprop:Generator_TableClassName="Table_processDataTable" msprop:Generator_TableVarName="tableTable_process" msprop:Generator_TablePropName="Table_process" msprop:Generator_RowDeletingName="Table_processRowDeleting" msprop:Generator_RowChangingName="Table_processRowChanging" msprop:Generator_RowEvHandlerName="Table_processRowChangeEventHandler" msprop:Generator_RowDeletedName="Table_processRowDeleted" msprop:Generator_UserTableName="Table_process" msprop:Generator_RowChangedName="Table_processRowChanged" msprop:Generator_RowEvArgName="Table_processRowChangeEvent" msprop:Generator_RowClassName="Table_processRow">
+        <xs:element name="Table_process" msprop:Generator_TableClassName="Table_processDataTable" msprop:Generator_TableVarName="tableTable_process" msprop:Generator_RowChangedName="Table_processRowChanged" msprop:Generator_TablePropName="Table_process" msprop:Generator_RowDeletingName="Table_processRowDeleting" msprop:Generator_RowChangingName="Table_processRowChanging" msprop:Generator_RowEvHandlerName="Table_processRowChangeEventHandler" msprop:Generator_RowDeletedName="Table_processRowDeleted" msprop:Generator_RowClassName="Table_processRow" msprop:Generator_UserTableName="Table_process" msprop:Generator_RowEvArgName="Table_processRowChangeEvent">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="Id" msprop:Generator_ColumnVarNameInTable="columnId" msprop:Generator_ColumnPropNameInRow="Id" msprop:Generator_ColumnPropNameInTable="IdColumn" msprop:Generator_UserColumnName="Id" type="xs:int" />

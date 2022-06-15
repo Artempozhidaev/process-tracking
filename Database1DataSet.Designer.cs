@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace KS_18_var_5 {
+namespace Process_tracking {
     
     
     /// <summary>
@@ -720,7 +720,7 @@ namespace KS_18_var_5 {
         }
     }
 }
-namespace KS_18_var_5.Database1DataSetTableAdapters {
+namespace Process_tracking.Database1DataSetTableAdapters {
     
     
     /// <summary>
@@ -893,7 +893,7 @@ SELECT Id, name_of_process, date_of_release, work_time FROM Table_process WHERE 
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::KS_18_var_5.Properties.Settings.Default.Database1ConnectionString;
+            this._connection.ConnectionString = global::Process_tracking.Properties.Settings.Default.Database1ConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
